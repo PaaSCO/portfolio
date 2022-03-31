@@ -5,6 +5,7 @@ import HomePage from './Pages/Home';
 import {Switch, Route} from 'react-router-dom';
 import Contact from './Pages/Contact';
 import Blogs from './Pages/Blogs';
+import Career from './Pages/Career';
 import Portfolios from './Pages/Portfolios';
 import About from './Pages/About';
 import { useState } from 'react';
@@ -39,7 +40,12 @@ function App() {
          <Route path='/about' exact>
              <About/>
 
-         </Route>
+                          </Route>
+                          <Route path='/career' exact>
+             <Career/>
+
+                          </Route>
+                          
          <Route path='/portfolios' exact>
              <Portfolios/>
 

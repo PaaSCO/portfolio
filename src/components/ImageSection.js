@@ -8,11 +8,11 @@ function ImageSection() {
                 <img src={about} alt=""/>
             </div>
             <div className="about-info">
-                <h4>Hello I am<span> Paa Solo</span></h4>
+                <h4>Meet<span> Solomon Arthur</span></h4>
                 <p className="about-text">
-                Enthusiastic college student working towards degree in Computer Science. Experience across 
-business communication channels including social media, email blasts, digital and public 
-relations. Quick-learner with positive attitude ready to make immediate impact.
+               A hardworking young man with a genuine passion for technology and leadership. 
+Experienced across public speaking, administration and mentoring young people. 
+Quick-learner with positive attitude ready to make impact. 
                 </p>
                 <div className="about-details">
                     <div className="left-section">
@@ -24,8 +24,8 @@ relations. Quick-learner with positive attitude ready to make immediate impact.
                         <p>Countries</p>
                     </div>
                     <div className="right-section">
-                        <p>: Paa Solo</p>
-                        <p>: 22</p>
+                        <p>: Solomon Arthur</p>
+                        <p>: 23</p>
                         <p>: Ghanaian</p>
                         <p>: Engllish, Twi</p>
                         <p>: KNUST,Kumasi</p>

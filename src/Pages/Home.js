@@ -15,9 +15,9 @@ function Home() {
                 Ya! Meet <span> Paa Solo </span> The Genius
                 </h1>
                 <p className="hero-sub-text" >
-                Enthusiastic college student working towards degree in Computer Science. Experience across 
-business communication channels including social media, email blasts, digital and public 
-relations. Quick-learner with positive attitude ready to make immediate impact.
+                A hardworking young man with a genuine passion for technology and leadership. 
+Experienced across public speaking, administration and mentoring young people. 
+Quick-learner with positive attitude ready to make impact. 
                 </p>
                 <div className="social-icons">
                     <Link className='holder'>
